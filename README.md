@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divad1998
 - 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning the Spring framework
-- 💞️ I’m looking to collaborate on web softwares' backends
+- 🌱 I’m currently writing a Spring rest api
+- 💞️ I’m looking to work on an innovative web software
 - 📫 How to reach me https://www.linkedin.com/in/david-dinneya-aa38ba198/
 
 <!---
